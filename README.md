@@ -22,7 +22,7 @@ It's true, I forgot about 2 and a half hours in
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ```bash
 # Clone repo
